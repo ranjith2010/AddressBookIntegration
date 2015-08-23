@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootTableViewController.h
 //  AddressBookIntegration
 //
 //  Created by ranjit on 22/08/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootTableViewController : UITableViewController
 
 @end
-
